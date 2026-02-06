@@ -1,2 +1,2 @@
-# Knivi16-Compiler
-Custom compiler for 16 bit CPU in CM2
+# Knivi16-Assembler
+Custom RISC-like assembler for 16 bit CPU in CM2
